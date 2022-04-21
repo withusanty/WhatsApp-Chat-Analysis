@@ -73,7 +73,7 @@
 6. Once your file has been uploaded all members name will be visible in dropdown menu,default selecte All, if you want to analys for indivisual member then select that member and click on 'Show Analysis'.
 
 
-# Few Results Snapshots:
+# Some Snapshots:
 ![what3](https://user-images.githubusercontent.com/40932902/164450748-aeb5c4ae-4030-48bb-a3a8-c63b6e0fde77.png)
 ![what4](https://user-images.githubusercontent.com/40932902/164450755-c8215423-6c23-47bd-a70c-7369b1533237.png)
 ![what5](https://user-images.githubusercontent.com/40932902/164450758-3a3b8a72-4651-467d-8b95-d3008c07c519.png)

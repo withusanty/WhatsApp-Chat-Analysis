@@ -67,20 +67,19 @@
         
 2. Now, vist at https://whatsapp-santosh.herokuapp.com/
 3. Page will look like below
-![what.png](attachment:63d3f9e1-b565-4b79-beeb-752681d6c585.png)
+![what2](https://user-images.githubusercontent.com/40932902/164450540-f0700c3e-c0bb-47a7-af01-2b23b71e2782.png)
 4. To see details how it works click on plus icon '+', click again '-' to close
-![image.png](attachment:d12869db-e346-4f48-8f12-9a9b3a774fad.png)
-
 5. Browse your file or drang and drop in the file box.
 6. Once your file has been uploaded all members name will be visible in dropdown menu,default selecte All, if you want to analys for indivisual member then select that member and click on 'Show Analysis'.
-![what2.png](attachment:91e594f6-c364-4aeb-8377-256136a6c693.png)
+
 
 # Few Results Snapshots:
-![what3.png](attachment:458ce0c8-28dc-445b-bb6b-3c6d72c638e2.png)
-![what4.png](attachment:69ec0681-d019-4651-8240-e5407cd4dc7c.png)
-![what5.png](attachment:5ad289e7-fcd9-4684-9c6a-d6c7fa95f2ae.png)
-![what6.png](attachment:df4fabee-efcc-468b-95b4-aa8f9ef3cf5b.png)
-![what7.png](attachment:5490420f-c581-45de-8c87-3bfc0fa16afd.png)
-![what8.png](attachment:d1bafe8c-f122-4607-8093-2af42213bdde.png)
-![what9.png](attachment:c79f0823-019e-4119-b6ed-b738ecc8dfd5.png)
-![what10.png](attachment:5351a0b1-0ae8-4592-90e9-91972604b60f.png)
+![what3](https://user-images.githubusercontent.com/40932902/164450748-aeb5c4ae-4030-48bb-a3a8-c63b6e0fde77.png)
+![what4](https://user-images.githubusercontent.com/40932902/164450755-c8215423-6c23-47bd-a70c-7369b1533237.png)
+![what5](https://user-images.githubusercontent.com/40932902/164450758-3a3b8a72-4651-467d-8b95-d3008c07c519.png)
+![what6](https://user-images.githubusercontent.com/40932902/164450759-08a12997-5d06-4f50-9e29-fc272dd28523.png)
+![what7](https://user-images.githubusercontent.com/40932902/164450765-38aac503-87e4-4097-a1f2-6cdc89cdac81.png)
+![what8](https://user-images.githubusercontent.com/40932902/164450768-d6712ba7-5ecb-4f7b-8d3d-9ebb2c1bc2cf.png)
+![what9](https://user-images.githubusercontent.com/40932902/164450771-5ba10e9c-ab57-472a-b8bf-f783271c9056.png)
+![what](https://user-images.githubusercontent.com/40932902/164450776-56abca93-6bfe-4ad3-8175-7693be56b7ef.png)
+![what2](https://user-images.githubusercontent.com/40932902/164450779-0a41bc80-64ee-41b5-9b52-2282584883fc.png)
